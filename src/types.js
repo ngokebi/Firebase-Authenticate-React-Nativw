@@ -1,0 +1,1 @@
+export const ALL_ARTICLES = 'all_articles';
